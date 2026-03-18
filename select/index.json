@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "いたいの、いたいの、とんでいけ",
+  "base_artist": "MAISONdes",
+  "createdAt": "2026-03-18T02:52:52.662413Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いたいの、いたいの、とんでいけ (feat. 『ユイカ』, KAFUNÉ)",
+      "artist": "MAISONdes",
+      "has_synced": false,
+      "path": "select/01_いたいの、いたいの、とんでいけ_(feat._『ユイカ』,_KAFUNÉ)_MAISONdes.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いたいの、いたいの、とんでいけ (feat. 『ユイカ』, KAFUNÉ)",
+      "artist": "MAISONdes, 『ユイカ』, KAFUNÉ",
+      "has_synced": true,
+      "path": "select/02_いたいの、いたいの、とんでいけ_(feat._『ユイカ』,_KAFUNÉ)_MAISONdes,_『ユイカ』,_KAFUNÉ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いたいの、いたいの、とんでいけ",
+      "artist": "MAISONdes feat. 『ユイカ』 & KAFUNÉ",
+      "has_synced": true,
+      "path": "select/03_いたいの、いたいの、とんでいけ_MAISONdes_feat._『ユイカ』_&_KAFUNÉ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "いたいの、いたいの、とんでいけ (feat. 『ユイカ』",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/04_いたいの、いたいの、とんでいけ_(feat._『ユイカ』_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "いたいの、いたいの、とんでいけ",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/05_いたいの、いたいの、とんでいけ_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "いたいの、いたいの、とんでいけ / Pain, Pain, Go Away",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/06_いたいの、いたいの、とんでいけ___Pain,_Pain,_Go_Away_MAISONdes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いたいの、いたいの、とんでいけ (feat. 『ユイカ』, KAFUNÉ)",
+      "artist": "MAISONdes, 『ユイカ』, KAFUNÉ",
+      "has_synced": false,
+      "path": "select/pl_01_いたいの、いたいの、とんでいけ_(feat._『ユイカ』,_KAFUNÉ)_MAISONdes,_『ユイカ』,_KAFUNÉ.txt"
+    }
+  ]
+}
